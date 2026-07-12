@@ -14,4 +14,4 @@
 
 | Скан | Результат |
 |------|-----------|
-| ![Пример ](examples/2026-07-12_19-26-16.png) | [Результат ](examples/recognized_text.txt).
+| ![Пример ](examples/0319535382_05.png) | [Результат ](examples/recognized_text.txt).
