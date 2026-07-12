@@ -15,3 +15,5 @@
 | Скан | Результат |
 |------|-----------|
 | ![Пример ](examples/0319535382_05.png) | [Результат ](examples/recognized_text.txt).
+|------|-----------|
+| ![Пример ](examples/193c1cda27c61e6a763194a3c44d03a9.jpg) | [Результат ](examples/recognized_text(1).txt).
